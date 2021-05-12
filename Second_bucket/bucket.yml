@@ -1,6 +1,6 @@
 flows:
-  09d72d02-5743-4972-b138-c4be2f70bb2f: {ver: 1, file: Logged.snapshot, comments: blahh,
-    author: anonymous, created: 1620824862184, flowName: Logged, flowDesc: i don't
-      know}
+  09d72d02-5743-4972-b138-c4be2f70bb2f: {ver: 2, file: Logged.snapshot, comments: Yess
+      do it, author: anonymous, created: 1620824937502, flowName: Logged, flowDesc: i
+      don't know}
 layoutVer: 1
 bucketId: cffeace8-5a37-4014-a415-74efc99fd16e
