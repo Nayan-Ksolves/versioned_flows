@@ -49,8 +49,8 @@
         "name" : "Registry_try",
         "outputPorts" : [ ],
         "position" : {
-          "x" : -304.0,
-          "y" : 48.0
+          "x" : -272.0,
+          "y" : 8.0
         },
         "processGroups" : [ ],
         "processors" : [ {
@@ -159,8 +159,8 @@
           },
           "properties" : {
             "character-set" : "UTF-8",
-            "File Size" : "5KB",
-            "generate-ff-custom-text" : "This is the flow for update!!pop",
+            "File Size" : "2KB",
+            "generate-ff-custom-text" : "This is the flow for update!!",
             "Batch Size" : "1",
             "Unique FlowFiles" : "false",
             "Data Format" : "Text"
